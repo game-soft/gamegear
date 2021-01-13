@@ -1,0 +1,17 @@
+{
+  "name": "@game-soft/gamegear",
+  "version": "0.1.0",
+  "main": "lib/main.js",
+  "description": "Game Gear soft list of release dates",
+  "files": [
+    "README.md",
+    "lib/",
+    "data/soft_list.js"
+  ],
+  "repository": "game-soft/gamegear",
+  "author": "daisuke.takayama",
+  "license": "MIT",
+  "ignore": [
+    ".*"
+  ]
+}
